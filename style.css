@@ -1,0 +1,60 @@
+/* ============================Import Google Fonts ==========================*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+
+/* ============================Global Css Declaration ========================*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* ===========================Header Section Begain =========================*/
+.bg-color{
+    background-color: #264653;
+}
+
+.custom-css{
+    margin-top: 150px;
+}
+
+.btn-custom{
+    color:white;
+    background-color: #E76F51;
+    padding: 8px 30px;
+}
+/* ============================Header Section End =============================*/
+
+
+/* =======================Catagories Section Begain ===========================*/
+
+.img-grayscale{
+    filter: grayscale(100%);
+
+}
+
+.custom-color{
+    color:#E76F51;
+}
+/* ========================Catagories Section End =============================*/
+
+/* =======================Happy Clients Section Begain =========================*/
+.top-gap{
+    margin-top: 100px;
+}
+.client-img{
+    width:149px;
+    height: 149px;
+}
+/*======================== Happy Clients Section End ========================== */
+
+/*========================= Subscribe Section Begain =========================== */
+.subscribe-section{
+    height: 300px;
+    background: rgb(248, 248, 248);
+}
+/*========================= Subscribe Section End ============================== */
